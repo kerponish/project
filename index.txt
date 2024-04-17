@@ -1,1 +1,2 @@
 this is index text
+this is new text
